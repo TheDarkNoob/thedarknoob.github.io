@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-# theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 
@@ -55,4 +55,4 @@ plugins:
 #   - vendor/ruby/
 
 # Custom settings
-remote_theme: daattali/beautiful-jekyll@5.0.0
+# remote_theme: daattali/beautiful-jekyll@5.0.0
